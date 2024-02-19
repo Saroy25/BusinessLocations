@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLocationsWebAPI", "..\BusinessLocationsWebAPI\BusinessLocationsWebAPI.csproj", "{F959C8BE-33EE-4014-917A-3951B465E787}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLocationsWebApp", "..\BusinessLocationsWebApp\BusinessLocationsWebApp.csproj", "{91DD8A13-5B94-4E43-8A3A-1560716C3DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F959C8BE-33EE-4014-917A-3951B465E787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F959C8BE-33EE-4014-917A-3951B465E787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F959C8BE-33EE-4014-917A-3951B465E787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F959C8BE-33EE-4014-917A-3951B465E787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DD8A13-5B94-4E43-8A3A-1560716C3DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DD8A13-5B94-4E43-8A3A-1560716C3DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DD8A13-5B94-4E43-8A3A-1560716C3DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DD8A13-5B94-4E43-8A3A-1560716C3DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {497B396F-5FAE-4792-969A-960271D72E94}
+	EndGlobalSection
+EndGlobal
