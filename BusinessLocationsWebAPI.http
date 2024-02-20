@@ -1,0 +1,6 @@
+@BusinessLocationsWebAPI_HostAddress = http://localhost:5126
+
+GET {{BusinessLocationsWebAPI_HostAddress}}/api/businesslocations/
+Accept: application/json
+
+###
